@@ -370,7 +370,7 @@ text-align: center;
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
       ),
-      url('/images/pic3.jpg');
+      url('Project1YT/images/pic3.jpg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -386,7 +386,7 @@ text-align: center;
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('/images/pic4.jpg');
+      url('Project1YT/images/pic4.jpg');
   }
 
 .services h2 {
